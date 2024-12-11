@@ -1,0 +1,210 @@
+/******************* start reset css *******************/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/******************* end reset css *******************/
+
+body {
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+body table {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+b {
+  font-weight: bold;
+  color: #333;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #003300;
+  margin: 0 0 15px ;
+}
+
+h2.centered {
+  width: 100%;
+  text-align: center;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: bold;
+  color: #003300;
+  margin: 10px 0;
+}
+
+span.bold {
+  font-weight: bold;
+  color: #222;
+}
+
+table#header, table#header td {
+  background-color: #007236; /*rgba(0, 114, 54, 1) or #007236 matches the banner */
+  color: #FFFFCC;
+  border-radius: 0px 0px 5px 5px;
+}
+
+table#header, div#header-outer {
+  margin-bottom: 15px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+table#header td {
+  padding: 20px 0;
+}
+table#header h1 {
+  margin-top: 10px;
+  font-size: 34px;
+  line-height: 40px;
+}
+
+div#header-outer {
+    /*width: 100%;*/
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    color: #C80000; /* red of banner text */
+    background-color: #007236; /* border green of banner */
+  }
+
+div#header-inner {
+  width: 100%;
+  height: 60px;
+  background-color: #EBC326; /* mustard yellow of banner */
+  vertical-align: middle;
+}
+
+div#header-inner span#header-topic {
+  /*position: relative;*/
+  /*top: 15px;*/
+  color: #C80000; /* red of banner text */
+  font-weight: bold;
+  font-size: 26px;
+}
+
+#header-left {
+  text-align: left;
+  width: 1%;
+  padding: 0 10px;
+}
+#header-middle {
+  text-align: center;
+  vertical-align: middle;
+  width: 98%;
+}
+#header-right {
+  text-align: right;
+  width: 1%;
+  padding: 5px 10px;
+}
+
+a { color: #000099; }
+a:visited { color: #000099; }
+a:active { color: #0000FF; }
+a:hover { color: #0000FF; }
+
+a.style1 {color: #003399}
+a.hidden-link {color: #000000; text-decoration:none; cursor: text; }
+
+#nav-container {
+  height: 100%;
+}
+
+#navigation {
+  background-color: #007236;
+  /*background-color: #003300;*/
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#007236), to(#004320));
+  background-image: -webkit-linear-gradient(top, #007236, #004320);
+  background-image: -o-linear-gradient(top, #007236, #004320);
+  background-image: linear-gradient(to bottom, #007236, #004320);
+  background-image: -moz-linear-gradient(top, #007236, #004320);
+  border-radius: 0 4px 4px 0;
+
+  padding: 7px 15px;
+  width: 175px;
+  color: #FFFFCC;
+  font-size: 17px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+#navigation p {
+  padding: 4px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+#navigation h3 { margin-top: 5px; }
+#navigation a { color: #FFFFCC; text-decoration: none; }
+#navigation a:hover { color: #FFFFFF; text-decoration: underline; }
+
+td#content { padding: 0 20px 5px; vertical-align: top; }
+td#content.home { padding-top: 0 }
+td#content p { margin-bottom: 15px; }
+div#content-inner { max-width: 900px; }
+
+table.pictures { max-width: 960px; }
+table.pictures td {
+  width: 33%;
+  padding: 0 3px;
+}
+
+table.pictures img, td.side-picture img { border: 4px solid #bbb; border-radius: 4px; }
+table.pictures td { vertical-align: top; }
+td.side-picture {
+  /*width: 40%;*/
+  padding: 0 24px;
+  text-align: right;
+}
+
+ul.graphic.cheer {
+  margin-bottom: 36px;
+}
+
