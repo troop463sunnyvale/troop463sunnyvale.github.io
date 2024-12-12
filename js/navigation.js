@@ -14,10 +14,10 @@ if (false && location.href.indexOf("index.html") == -1) {
 
 // Links...
 document.write("<p><a href='index.html'>Home</a></p>");
-document.write("<p><a href='meetings.html'>Troop Meetings</a></p>");
-document.write("<p><a href='calendar.html'>Calendar</a></p>");
-document.write("<p><a href='joining.html'>Joining Troop 463</a></p>");
+document.write("<p><a href='calendar.html'>Outings Calendar</a></p>");
 document.write("<p><a href='philosophy.html'>463's Philosophy</a></p>");
+document.write("<p><a href='joining.html'>Joining Troop 463</a></p>");
+document.write("<p><a href='meetings.html'>Troop Meetings</a></p>");
 document.write("<p><a href='organization.html'>Troop Organization</a></p>");
 document.write("<p><a href='highadventure.html'>High Adventure</a></p>");
 document.write("<p><a href='troophistory.html'>Troop History</a></p>");
