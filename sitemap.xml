@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 
 <url>
-<loc>http://troop463sunnyvale.com/</loc>
+<loc>https://troop463sunnyvale.com/</loc>
   <lastmod>2013-10-05T16:52:48+00:00</lastmod>
 </url>
 
 <url>
-<loc>http://troop463sunnyvale.com/philosophy.html</loc>
+<loc>https://troop463sunnyvale.com/philosophy.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/meetings.html</loc>
+<url><loc>https://troop463sunnyvale.com/meetings.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/organization.html</loc>
+<url><loc>https://troop463sunnyvale.com/organization.html</loc>
   <lastmod>2013-10-05T15:40:38+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/calendar.html</loc>
+<url><loc>https://troop463sunnyvale.com/calendar.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/outings.html</loc>
+<url><loc>https://troop463sunnyvale.com/outings.html</loc>
   <lastmod>2013-10-05T15:40:39+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/troopflowchart.html</loc>
+<url><loc>https://troop463sunnyvale.com/troopflowchart.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/anniversary40.html</loc>
+<url><loc>https://troop463sunnyvale.com/anniversary40.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/anniversary50.html</loc>
+<url><loc>https://troop463sunnyvale.com/anniversary50.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/eagles.html</loc>
+<url><loc>https://troop463sunnyvale.com/eagles.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/highadventure.html</loc>
+<url><loc>https://troop463sunnyvale.com/highadventure.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/joining.html</loc>
+<url><loc>https://troop463sunnyvale.com/joining.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/meetings.html</loc>
+<url><loc>https://troop463sunnyvale.com/meetings.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/orderofthearrow.html</loc>
+<url><loc>https://troop463sunnyvale.com/orderofthearrow.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/resources.html</loc>
+<url><loc>https://troop463sunnyvale.com/resources.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/troophistory.html</loc>
+<url><loc>https://troop463sunnyvale.com/troophistory.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 
-<url><loc>http://troop463sunnyvale.com/troopsuccess.html</loc>
+<url><loc>https://troop463sunnyvale.com/troopsuccess.html</loc>
   <lastmod>2013-10-05T15:40:40+00:00</lastmod>
 </url>
 

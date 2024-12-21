@@ -5,7 +5,7 @@
   Attempt to handle and gracefully recover from flashblock conditions
   Requires SoundManger v2.95a.20090717+
 
-  http://schillmania.com/projects/soundmanager2/
+  https://schillmania.com/projects/soundmanager2/
 
 */
 soundManager._flashBlock = new function() {
