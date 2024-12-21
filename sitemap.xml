@@ -1,80 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<urlset
-      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
-            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
-<url>
-<loc>https://troop463sunnyvale.com/</loc>
-  <lastmod>2013-10-05T16:52:48+00:00</lastmod>
-</url>
-
-<url>
-<loc>https://troop463sunnyvale.com/philosophy.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/meetings.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/organization.html</loc>
-  <lastmod>2013-10-05T15:40:38+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/calendar.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/outings.html</loc>
-  <lastmod>2013-10-05T15:40:39+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/troopflowchart.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/anniversary40.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/anniversary50.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/eagles.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/highadventure.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/joining.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/meetings.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/orderofthearrow.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/resources.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/troophistory.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
-<url><loc>https://troop463sunnyvale.com/troopsuccess.html</loc>
-  <lastmod>2013-10-05T15:40:40+00:00</lastmod>
-</url>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://troop463sunnyvale.com/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/resources/info-for-parents/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/about/philosophy/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/outings/</loc>
+    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/resources/becoming-registered-adult/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/about/meetings/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/resources/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/about/organization/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/about/high-advanture/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/joining/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/about/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/about/history/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/about/success/</loc>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/outings/2024-12-san-francisco/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/outings/2024-11-tomales-bay/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/outings/2024-10-coyote-lake/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/outings/2024-09-point-reyes/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://troop463sunnyvale.com/tags/</loc>
+  </url>
 </urlset>
